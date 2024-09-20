@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "role": "System Engineer",
+    "organisation": "TATA CONSULTANCY SERVICES",
+    "startDate": "November, 2021 - ",
+    "endDate": "Present,",
+    "location": "Bengaluru",
+    "experiences": [
+      "• Managing e-commerce sites with over 8000 products.",
+      "• Maintaining the Front-end related development of JIRA stories created by Business. Redesigned the e-store UI as per the business request.",
+      "• Analyzed website performance metrics and identified areas for improvement, resulting in a 30% increase in website speed and a 40% increase in customer engagement.",
+      "• Successfully onboarded a new team member, providing comprehensive knowledge transfer on project specifics and best practices."
+    ],
+    "imageSrc": "/company/tcslogo.svg"
+  },
+  {
+    "id": 2,
+    "role": "Assisstant System Engineer",
+    "organisation": "TATA CONSULTANCY SERVICES",
+    "startDate": "Nov, 2020 - ",
+    "endDate": "Nov, 2021,",
+    "location": "Bengaluru",
+    "experiences": [
+      "• Managing e-commerce sites with over 8000 products.",
+      "• Converting Servicenow ticket into JIRA stories and reporting it to dev team with root cause analysis."
+    ],
+    "imageSrc": "/company/tcslogo.svg"
+  }
+]

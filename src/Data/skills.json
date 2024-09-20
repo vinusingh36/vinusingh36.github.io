@@ -1,0 +1,38 @@
+[
+  {
+    "title": "HTML",
+    "imageSrc": "skills/html.png"
+  },
+  {
+    "title": "CSS",
+    "imageSrc": "skills/css.png"
+  },
+  {
+    "title": "JavaScript",
+    "imageSrc": "skills/javascript.png"
+  },
+  {
+    "title": "React",
+    "imageSrc": "skills/react.png"
+  },
+  {
+    "title": "React-Redux",
+    "imageSrc": "skills/redux.png"
+  },
+  {
+    "title": "ChakraUI",
+    "imageSrc": "skills/chakra.png"
+  },
+  {
+    "title": "GIT",
+    "imageSrc": "skills/git.png"
+  },
+  {
+    "title": "Agile",
+    "imageSrc": "skills/agile.png"
+  },
+  {
+    "title": "VS Code",
+    "imageSrc": "skills/vscode.png"
+  }
+]

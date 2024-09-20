@@ -1,0 +1,18 @@
+[
+  {
+    "key": 1,
+    "title": "John Douglus, Ecommerce Website",
+    "imageSrc": "Assets/project/project1.JPG",
+    "description": "An Indian fashion e-commerce website that offers variety of products for Men, Women and Kids.",
+    "demo": "https://johndouglusecommsite.vercel.app/",
+    "source": "https://github.com/vinusingh36/ecommsite"
+  },
+  {
+    "key": 2,
+    "title": "Specialized Bike App , Cycle E-Store",
+    "imageSrc": "Assets/project/project2.JPG",
+    "description": "E-commerce platform use to sell cycles. A collaborative project built by team of 4 web developers.",
+    "demo": "https://specializedstore.vercel.app/",
+    "source": "https://github.com/ProActive44/specialized-bike-app"
+  }
+]
