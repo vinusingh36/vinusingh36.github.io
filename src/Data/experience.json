@@ -7,23 +7,25 @@
     "endDate": "Present,",
     "location": "Bengaluru",
     "experiences": [
-      "• Managing e-commerce sites with over 8000 products.",
-      "• Maintaining the Front-end related development of JIRA stories created by Business. Redesigned the e-store UI as per the business request.",
-      "• Analyzed website performance metrics and identified areas for improvement, resulting in a 30% increase in website speed and a 40% increase in customer engagement.",
+      "• Developing React components using hooks and react-redux for an e-commerce site.",
+      "• Implemented responsive design using CSS Grid, Flexbox, and Media Queries.",
+      "• Collaboration with Business for new UI design and JIRA story validation.",
+      "• Following DRY principle while developing code and conducting code reviews to ensure best practices.",
       "• Successfully onboarded a new team member, providing comprehensive knowledge transfer on project specifics and best practices."
     ],
     "imageSrc": "/company/tcslogo.svg"
   },
   {
     "id": 2,
-    "role": "Assisstant System Engineer",
+    "role": "Assistant System Engineer",
     "organisation": "TATA CONSULTANCY SERVICES",
     "startDate": "Nov, 2020 - ",
     "endDate": "Nov, 2021,",
     "location": "Bengaluru",
     "experiences": [
-      "• Managing e-commerce sites with over 8000 products.",
-      "• Converting Servicenow ticket into JIRA stories and reporting it to dev team with root cause analysis."
+      "• Managing e-commerce sites and converting servicenow tickets to JIRA stories within the SLA period.",
+      "• Investigating the issue and reporting root cause analysis to DEV team.",
+      "• Working on basic level UI design using javascript, HTML, CSS with Responsive web design."
     ],
     "imageSrc": "/company/tcslogo.svg"
   }
