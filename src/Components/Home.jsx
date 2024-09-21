@@ -38,10 +38,10 @@ const Home = () => {
                 >
                     <h1 ref={typedRef}> </h1>
 
-                    <a href={resume} download="vineetsingh-resume.pdf" className="btn btn-outline-warning my-3 mx-4">
+                    <a href={resume} download="vineet_singh_resume.pdf" className="btn btn-outline-warning my-3 mx-4">
                         Download Resume <MdDownload />
                     </a>
-                    <a href="https://drive.google.com/file/d/1m8f8TrGJTG9tyXazIZ_mudaSbxpkssrL/view" target="_blank" className="btn btn-outline-warning my-3">
+                    <a href="https://drive.google.com/file/d/13eWhumE1QYSRZW2KpVTw1RQMGfKO_-0a/view" target="_blank" className="btn btn-outline-warning my-3">
                         View Resume <IoEye />
                     </a>
                 </div>
